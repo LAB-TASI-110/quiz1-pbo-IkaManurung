@@ -1,0 +1,32 @@
+# Soal Pemrograman - Penjumlahan Nilai Siswa
+## Deskripsi Masalah
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. 
+Input:
+1.	Jumlah total data (N).
+2.	Deret nilai (n1, n2, …, n).
+3.	Kode kelompok siswa
+
+**Tugas**
+Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+<p align="center">
+  <img src="image/pola.jpeg" width="300">
+</p>
+
+TOLONG BANTU KERJAKAN
+
+hey make java ini bukan piton
+
+kode kelompok disini aku maunya dibedakan antar laki laki dan perempuan
+
+kek mana nanti hasil outputnya
+
+ganti public classnya jadi Driver2
+
+aku juga mau driver2 versi yang masih pake nama bukan kelompok
+
+klo yg nama itu kek manalah outputnya
+
+klo misalnya aku mau input nama dan nilai diluar dari gambar yg ku minta bisanya?
+
+menurut mu sesuai soal yg ku berikan mana yg lebih sesuai dengan nama atau kode kelompok siswa dengan laki laki perempuan
+
