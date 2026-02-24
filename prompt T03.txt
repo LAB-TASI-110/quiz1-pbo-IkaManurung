@@ -1,0 +1,20 @@
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+
+coba buatkan code javanya dengan ketentuan nama pelanggan, tanggal laundry, banyak baju, harga, pelacakan status (memproses, selesai)
+
+liatkan dulu gambaran input dan outputnya
+
+gausah lagi pake diskon, itu beda
+
+kalo misalnya mau buat statusnya masih diproses gimana ya biar dinamis
+
+kalau digabungkan sama yg awal tadi jadi kek mana gambarannya
+
+kasih dulu gambaran apa hasil input dan outputnya
+
+buatkan catatan khusus agar tau apa yang dibutuhkan pelanggan
+
+ganti menjadi public class Driver3
+
+terus ini kek mana masa ku isi gada outputan
+
